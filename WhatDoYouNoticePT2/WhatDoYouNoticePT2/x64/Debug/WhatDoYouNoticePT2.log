@@ -1,0 +1,2 @@
+﻿  WhatDoYouNoticePT2.cpp
+C:\Users\ecray\OneDrive\Documents\CS217\WhatDoYouNoticePT2\WhatDoYouNoticePT2\WhatDoYouNoticePT2.cpp(38,1): error C4700: uninitialized local variable 'newNode' used
